@@ -1,0 +1,14 @@
+D:\aidin\TestingApp\TestingApp.API\bin\Debug\netcoreapp2.2\TestingApp.API.deps.json
+D:\aidin\TestingApp\TestingApp.API\bin\Debug\netcoreapp2.2\TestingApp.API.runtimeconfig.json
+D:\aidin\TestingApp\TestingApp.API\bin\Debug\netcoreapp2.2\TestingApp.API.runtimeconfig.dev.json
+D:\aidin\TestingApp\TestingApp.API\bin\Debug\netcoreapp2.2\TestingApp.API.dll
+D:\aidin\TestingApp\TestingApp.API\bin\Debug\netcoreapp2.2\TestingApp.API.pdb
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.csprojAssemblyReference.cache
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.csproj.CoreCompileInputs.cache
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.RazorAssemblyInfo.cache
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.RazorAssemblyInfo.cs
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.AssemblyInfoInputs.cache
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.AssemblyInfo.cs
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.RazorTargetAssemblyInfo.cache
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.dll
+D:\aidin\TestingApp\TestingApp.API\obj\Debug\netcoreapp2.2\TestingApp.API.pdb
